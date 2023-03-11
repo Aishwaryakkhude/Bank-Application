@@ -5,7 +5,7 @@ public class bank_details {
 	private String name;
 	private String account_type;
 	private long balance;
-	//https://www.javatpoint.com/banking-application-in-java
+	
 	public int getAccount_no() {
 		return account_no;
 	}
